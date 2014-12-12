@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.02.22 20:10:16.390.cpp,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.cpp=D:\MY_DOCS\Программирование\фракталы\fractal\fractal.cpp</Transaction>
+    <Transaction>2008.02.22 20:10:16.406.h,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.h=D:\MY_DOCS\Программирование\фракталы\fractal\fractal.h</Transaction>
+    <Transaction>2008.02.22 20:10:16.406.dfm,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.dfm=D:\MY_DOCS\Программирование\фракталы\fractal\fractal.dfm</Transaction>
+    <Transaction>2008.02.22 20:10:33.765.bdsproj,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Project1.bdsproj=D:\MY_DOCS\Программирование\фракталы\fractal\fractalP.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>

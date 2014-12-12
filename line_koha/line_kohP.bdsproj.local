@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2008.03.10 13:51:39.531.cpp,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.cpp=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\line_koha\line_koh.cpp</Transaction>
+    <Transaction>2008.03.10 13:51:39.531.h,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.h=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\line_koha\line_koh.h</Transaction>
+    <Transaction>2008.03.10 13:51:39.531.dfm,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Unit1.dfm=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\line_koha\line_koh.dfm</Transaction>
+    <Transaction>2008.03.10 13:51:54.546.bdsproj,C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\Project1.bdsproj=C:\Documents and Settings\ivan\Мои документы\Borland Studio Projects\line_koha\line_kohP.bdsproj</Transaction>
+  </Transactions>
+</BorlandProject>
